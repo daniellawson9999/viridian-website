@@ -3,15 +3,7 @@
   game: Skystone
   
   events:
-    
-    - event: Plano Qualifier  
-    
-    awards: 
-    
-      - name: Inspire Award
-      
-        level: 1st
-        
+
     - event: Springdale Qualifer
     
     awards:
