@@ -1,3 +1,37 @@
+- years: 2019-2020
+
+  game: Skystone
+
+  events:
+
+    - event: Rice Middle School Qualifier
+
+      awards:
+
+        - name: Inspire Award
+
+          level: 1st
+          
+    - event: Springdale Qualifier
+    
+      awards:
+
+        - name: Control Award
+
+          level: 1st
+          
+    - event: Springdale Regional
+    
+      awards:
+
+        - name: Control Award
+
+          level: 1st
+          
+        - name: Design Award
+        
+          level: 2nd
+
 - years: 2018-2019
 
   game: Rover Ruckus
